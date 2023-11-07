@@ -1,2 +1,3 @@
 # first
-first day in learning git hub
+first day in learning aother thingh in the life.
+
