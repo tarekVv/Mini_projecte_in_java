@@ -1,4 +1,4 @@
 # first
 first day in learning git hub
 welcoe
-##can't understand what happen.
+## can't understand what happen.
